@@ -1,22 +1,20 @@
 ## About Project
 
-Deployed on AWS: 
+Deployed on AWS: https://develop.dl2wzm3fqmzqb.amplifyapp.com/
 
 This project has developed as a part of recruiting steps of the company of [credit engine]https://creditengine.jp/). This project will help to show the real-time update [covid-19](https://covid19.who.int/) situation around the globe.
 
 
 #### Features implemented:
-  * Showing data's from open API
-  * Search the info by country
-  * Filtering
-  * Filtering the necessity data
+  * Calling the Open Covid api's & showing data from open API
+  * Search by country
   * Dockerize the project
   * add css for a source
   * add global css
-  * Infinate scrolling/Pagination
-  * Deployment to AWS
   * Dockerize the project
-
+  * Deployment to AWS
+ #### Future work
+In future, I may add the "omicron covid" tracker on this project as well build djnago based backend with more features
 
 
 
